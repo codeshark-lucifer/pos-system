@@ -77,7 +77,7 @@ This project is meant as a **practice/demo backend** for learning and testing.
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/your-username/pos-system-demo.git
+git clone https://github.com/codeshark-lucifer/pos-system-demo.git
 cd pos-system-demo
 ````
 
